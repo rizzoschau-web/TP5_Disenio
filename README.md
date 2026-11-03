@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 URL Netlify: https://candid-boba-2f5c63.netlify.app
+=======
+URL Netlify: https://candid-boba-2f5c63.netlify.app
+>>>>>>> a0c515cd56ef573f209328aa644d4694d24d3887
 
 
 # Cubrí Seguros · Seguro de celular
