@@ -1,0 +1,21 @@
+[
+  {
+    "id": "basico",
+    "nombre": "Básico",
+    "tasaAnual": 0.036,
+    "coberturas": ["Robo total con violencia"]
+  },
+  {
+    "id": "plus",
+    "nombre": "Plus",
+    "tasaAnual": 0.054,
+    "recomendado": true,
+    "coberturas": ["Robo total", "Daños accidentales"]
+  },
+  {
+    "id": "premium",
+    "nombre": "Premium",
+    "tasaAnual": 0.072,
+    "coberturas": ["Robo total", "Daños accidentales", "Responsabilidad civil"]
+  }
+]
